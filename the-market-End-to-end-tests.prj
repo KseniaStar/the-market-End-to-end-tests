@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Project>
-   <description></description>
-   <name>the-market-End-to-end-tests</name>
-   <tag></tag>
-   <UUID>69cff80f-f463-4d84-9705-c431c0ed2065</UUID>
-   <migratedVersion>5.4.0</migratedVersion>
-   <pageLoadTimeout>0</pageLoadTimeout>
-</Project>
